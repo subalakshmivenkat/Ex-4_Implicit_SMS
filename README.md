@@ -5,7 +5,6 @@
 To create and design an android application Send SMS using Intent using Android Studio.
 
 ## EQUIPMENTS REQUIRED:
-
 Android Studio(Latest Version)
 
 ## ALGORITHM:
@@ -36,9 +35,7 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-
 public class MainActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -65,7 +62,6 @@ activityMain.xml
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
-
     <Button
         android:id="@+id/smsButton"
         android:layout_width="wrap_content"
@@ -74,7 +70,6 @@ activityMain.xml
         android:text="send sms"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"/>
-
 </RelativeLayout>
 ```
 ## OUTPUT
