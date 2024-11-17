@@ -73,8 +73,9 @@ activityMain.xml
 </RelativeLayout>
 ```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/a51376c4-6cc4-4d9f-8ad4-630e8a789f86)
-![image](https://github.com/user-attachments/assets/349ff46b-c666-4efe-b63d-03ce052a2f0f)
-![image](https://github.com/user-attachments/assets/cf134d6d-763d-43b1-83a2-30fe0213a177)
+<img src='https://github.com/user-attachments/assets/a51376c4-6cc4-4d9f-8ad4-630e8a789f86' width=200>
+<img src="https://github.com/user-attachments/assets/349ff46b-c666-4efe-b63d-03ce052a2f0f" width=200>
+<img src="https://github.com/user-attachments/assets/cf134d6d-763d-43b1-83a2-30fe0213a177" width=200>
+
 ## RESULT
 Thus a Simple Android Application create and design an android application Send SMS using Intent using Android Studio is developed and executed successfully.
